@@ -4,9 +4,9 @@ numpy
 groq
 langdetect
 deep-translator
-
 streamlit-option-menu
 streamlit-mic-recorder
 SpeechRecognition
 Pillow
 PyMuPDF
+scikit-learn
