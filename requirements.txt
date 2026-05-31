@@ -4,3 +4,4 @@ numpy
 groq
 langdetect
 deep-translator
+streamlit-option-menu
